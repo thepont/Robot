@@ -1,0 +1,12 @@
+4 test files have been included, TestA, TestB, TestC and AllTests
+
+AllTests run the same tests as A, B and C but also tests invalid input.
+
+To Execute the tests run the following :
+java -jar "dist/Robot.jar" AllTests
+java -jar "dist/Robot.jar" TestA
+java -jar "dist/Robot.jar" TestB
+
+or 
+
+java -jar "dist/Robot.jar" TestC
